@@ -40,7 +40,7 @@ define([], function () {
             bootstrap:{
                 deps:['jquery']
             }
-        }
+        },
     });
 
 
